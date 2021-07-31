@@ -9,6 +9,11 @@
 - Team 1 send F3 to armory
 - Team 2 send F3 to occupy guard tower at top
 - Team 3 send F3 to occupy guard tower at bottom
+- Everyone need to garrison with F1 F2
+- Everyone need to gather with F4
+- Everyone need to attack other players and buildings of other clan with F3
+- Mostly other clan will forget to garrison command center, workshop and hospital. get workshop and gas station first. so their mobility will be limited.
+- Than get both command centers and garrison them
 
 ![BattleField](Battlefield.jpg)
 
