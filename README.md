@@ -73,3 +73,17 @@ There are 4 different ways we can get victory points
 4.  Occupy arsenal
 
 · **Note** : Once we occupy the Command center everyone needs to make sure the enemy cannot occupy it. This building will be the sole reason we can win this event
+
+## **Teams and Groups**
+| Team 1 | Team 2 | Team 3 |
+| ------------ | ------------ | ------------ |
+| RJSATYADEV (LEADER) | deadly L (LEADER) | TASHMAE (Leader) |
+| Boomstick (Second Leader) | Templer88 (Second Leader) | BlackHammer (Second Leader) |
+| Watts | Maz1177 | Reddy1Kwatt |
+| Never Enough | willy | Murat1903 |
+| pilon | EYVALLAH | Monster |
+| Xibitz | Pr0digy | MOLLES |
+| LeXaXaL | Ushmish | TAR88 |
+| Lagertha | Don Makaron | ozmoooo |
+| zehir | xFuriosax | Raskjell |
+| Leticia | fernandita | hoggy |
