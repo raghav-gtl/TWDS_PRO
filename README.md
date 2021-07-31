@@ -12,18 +12,18 @@
 ![BattleField](Battlefield.jpg)
 
 ## **Teams and Groups**
-| Team 1 | Team 2 | Team 3 | Team 4 |
-| ------------ | ------------ | ------------ | ------------ |
-| RJSATYADEV (LEADER) | deadly L (LEADER) | TASHMAE (Leader) | BlackHammer (Leader) |
-| Boomstick (Second Leader) | Templer88 (Second Leader) | Reddy1Kwatt | Murat1903 |
-| Watts | Maz1177 | Monster | MOLLES |
-| Never Enough | willy | TAR88 | ozmoooo |
-| pilon | EYVALLAH | Raskjell | hoggy |
-| Xibitz | Pr0digy | - | - |
-| LeXaXaL | Ushmish | - | - |
-| Lagertha | Don Makaron | - | - |
-| zehir | xFuriosax | - | - |
-| Leticia | fernandita | - | - |
+| Team 1 | Team 2 | Team 3 | Team 4 | Reserved |
+| ------------ | ------------ | ------------ | ------------ | ------------ |
+| RJSATYADEV (LEADER) | deadly L (LEADER) | TASHMAE (Leader) | BlackHammer (Leader) | SAIKO |
+| Boomstick (Second Leader) | Templer88 (Second Leader) | Reddy1Kwatt | Murat1903 | VeNoM |
+| Watts | Maz1177 | Monster | MOLLES | pika pikaaaa |
+| Never Enough | willy | TAR88 | ozmoooo | Rubixcube |
+| pilon | EYVALLAH | Raskjell | hoggy | abraham |
+| Xibitz | Pr0digy | - | - | - |
+| LeXaXaL | Ushmish | - | - | - |
+| Lagertha | Don Makaron | - | - | - |
+| zehir | xFuriosax | - | - | - |
+| Leticia | fernandita | - | - | - |
 
 ## **Buildings and Buffs**
 
