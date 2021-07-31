@@ -1,3 +1,30 @@
+## **Teams and Groups**
+| Team 1 | Team 2 | Team 3 | Team 4 |
+| ------------ | ------------ | ------------ | ------------ |
+| RJSATYADEV (LEADER) | deadly L (LEADER) | TASHMAE (Leader) | BlackHammer (Leader) |
+| Boomstick (Second Leader) | Templer88 (Second Leader) | Reddy1Kwatt | Murat1903 |
+| Watts | Maz1177 | Monster | MOLLES |
+| Never Enough | willy | TAR88 | ozmoooo |
+| pilon | EYVALLAH | Raskjell | hoggy |
+| Xibitz | Pr0digy | - | - |
+| LeXaXaL | Ushmish | - | - |
+| Lagertha | Don Makaron | - | - |
+| zehir | xFuriosax | - | - |
+| Leticia | fernandita | - | - |
+
+![BattleField](Battlefield.jpg)
+
+## Team Responsibility
+- Team 1 will occupy Command center at the top
+- Team 2 will occupy Command center at the bottom
+- Team 3 will occupy Armory
+- Team 4 will occupy Gas Station
+- Team 1 wil occupy Arsenal
+- Team 2 will occupy workshop
+- Team 3 will occupy guard tower at top
+- Team 4 will occupy guard tower at bottom
+- if anyone has too much wounded go to occupy hospital or if Team 3 and Team 4 get free occupy hospital
+
 ## **Buildings and Buffs**
 
 1.  ### **Command Center (Corner big building):**
@@ -73,30 +100,3 @@ There are 4 different ways we can get victory points
 4.  Occupy arsenal
 
 · **Note** : Once we occupy the Command center everyone needs to make sure the enemy cannot occupy it. This building will be the sole reason we can win this event
-
-## **Teams and Groups**
-| Team 1 | Team 2 | Team 3 | Team 4 |
-| ------------ | ------------ | ------------ | ------------ |
-| RJSATYADEV (LEADER) | deadly L (LEADER) | TASHMAE (Leader) | BlackHammer (Leader) |
-| Boomstick (Second Leader) | Templer88 (Second Leader) | Reddy1Kwatt | Murat1903 |
-| Watts | Maz1177 | Monster | MOLLES |
-| Never Enough | willy | TAR88 | ozmoooo |
-| pilon | EYVALLAH | Raskjell | hoggy |
-| Xibitz | Pr0digy | - | - |
-| LeXaXaL | Ushmish | - | - |
-| Lagertha | Don Makaron | - | - |
-| zehir | xFuriosax | - | - |
-| Leticia | fernandita | - | - |
-
-![BattleField](Battlefield.jpg)
-
-## Team Responsibility
-- Team 1 will occupy Command center at the top
-- Team 2 will occupy Command center at the bottom
-- Team 3 will occupy Armory
-- Team 4 will occupy Gas Station
-- Team 1 wil occupy Arsenal
-- Team 2 will occupy workshop
-- Team 3 will occupy guard tower at top
-- Team 4 will occupy guard tower at bottom
-- if anyone has too much wounded go to occupy hospital or if Team 3 and Team 4 get free occupy hospital
