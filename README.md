@@ -18,7 +18,7 @@
 
 ![BattleField](Battlefield.jpg)
 
-## **Teams and Groups**
+## **Teams and Groups BBQ**
 | Team 1 | Team 2 | Team 3 | Team 4 | Reserved |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
 | RJSATYADEV (LEADER) | deadly L (LEADER) | TASHMAE (Leader) | BlackHammer (Leader) | Reddy1Kwatt |
@@ -31,6 +31,20 @@
 | Lagertha | Don Makaron | - | - | - |
 | zehir | xFuriosax | - | - | - |
 | Leticia | fernandita | - | - | - |
+
+## **Teams and Groups PRO**
+| Team 1 | Team 2 | Team 3 | Team 4 | Reserved |
+| ------------ | ------------ | ------------ | ------------ | ------------ |
+| LODOS (LEADER) | Ensign (LEADER) |  DedBored (Leader) | Elven (Leader) | Angels |
+| UGACrotalus (Second Leader) | BigWolf (Second Leader) | DirtySprite | zeno21 | Huvxs |
+| Negan187 | runeix  | Xyxes | Alkan26 | Toffee |
+| Mr. CEPNI | Alraune | Harpy | DarkRyan | Baikarz |
+| Dukem | shadowarrior | RNA13 | iskarpela | Karby |
+| Hades | XxBrutexX | - | - | - |
+| LOBO | synthetic | - | - | - |
+| jdaniel | XxAnubisxX | - | - | - |
+| MrGenius | BeepBeep | - | - | - |
+| Helakai | (Forgot someone) | - | - | - |
 
 ## **Buildings and Buffs**
 
