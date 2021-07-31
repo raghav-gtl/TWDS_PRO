@@ -100,3 +100,12 @@ There are 4 different ways we can get victory points
 4.  Occupy arsenal
 
 · **Note** : Once we occupy the Command center everyone needs to make sure the enemy cannot occupy it. This building will be the sole reason we can win this event
+
+## Other things to note:
+- every building will have some time  before it can be occupied, just like communities (around 2-3 minutes) make sure we garrison the building after attacking.
+- heal all your troops before entering the battle, hospitals must be empty.
+- after occupying buildings, if you have extra adrenaline, use it to defeat walkers. switch out survivors from F1 to F2 and F1 to F3 so you can defeat the highest level. The more walkers you defeat the more victory points we get. 
+- send your F3 and F4 to gather in supply zone after killing walkers with it. save 20-30 percent adrenaline if there is an emergency.
+- save your relocation cards you can only get more once you occupy workshop.
+- always click the help button, heal troops in 10 minutes batches . for example putting 30 T7 troops for healing takes 10 minutes. I am suggesting this because we have players who can click the help button so those 10 minutes will be instantly finished.
+- if you don't have any RSS, get some from inventory. we need atleast something for healing the troops and you are not getting any RSS in battlefield.
