@@ -14,10 +14,10 @@
 ## **Teams and Groups**
 | Team 1 | Team 2 | Team 3 | Team 4 | Reserved |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
-| RJSATYADEV (LEADER) | deadly L (LEADER) | TASHMAE (Leader) | BlackHammer (Leader) | SAIKO |
-| Boomstick (Second Leader) | Templer88 (Second Leader) | Reddy1Kwatt | Murat1903 | VeNoM |
-| Watts | Maz1177 | Monster | MOLLES | pika pikaaaa |
-| Never Enough | willy | TAR88 | ozmoooo | Rubixcube |
+| RJSATYADEV (LEADER) | deadly L (LEADER) | TASHMAE (Leader) | BlackHammer (Leader) | Reddy1Kwatt |
+| Boomstick (Second Leader) | Templer88 (Second Leader) | SAIKO | Murat1903 | VeNoM |
+| Watts | Maz1177 | Monster | MOLLES | willy |
+| Never Enough | pika pikaaaa | TAR88 | ozmoooo | Rubixcube |
 | pilon | EYVALLAH | Raskjell | hoggy | abraham |
 | Xibitz | Pr0digy | - | - | - |
 | LeXaXaL | Ushmish | - | - | - |
