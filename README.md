@@ -109,3 +109,8 @@ There are 4 different ways we can get victory points
 - save your relocation cards you can only get more once you occupy workshop.
 - always click the help button, heal troops in 10 minutes batches . for example putting 30 T7 troops for healing takes 10 minutes. I am suggesting this because we have players who can click the help button so those 10 minutes will be instantly finished.
 - if you don't have any RSS, get some from inventory. we need atleast something for healing the troops and you are not getting any RSS in battlefield.
+
+## Warnings:
+- Talk only important things in main chat. No Hi hello or jokes, if you chat without any kind of importance and other members are not able to read important messages because of you, you will be kicked from whole event.
+- Don't leave the event and get into main game. if you do that you can not join the event again, substitute players will take your place.
+- all substitutes will be placed according to the absence of selected players in their respective team.
