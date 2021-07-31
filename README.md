@@ -14,6 +14,7 @@
 - Everyone need to attack other players and buildings of other clan with F3
 - Mostly other clan will forget to garrison command center, workshop and hospital. get workshop and gas station first. so their mobility will be limited.
 - Than get both command centers and garrison them
+- If you are attacking buildings which are garrisoned by other clan then only rally them (strong people will start, weaker join)
 
 ![BattleField](Battlefield.jpg)
 
