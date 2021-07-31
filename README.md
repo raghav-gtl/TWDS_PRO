@@ -1,13 +1,14 @@
 ## Team Responsibility
-- Team 1 will occupy Command center at the top
-- Team 2 will occupy Command center at the bottom
-- Team 3 will occupy Armory
-- Team 4 will occupy Gas Station
 - Team 1 wil occupy Arsenal
-- Team 2 will occupy workshop
-- Team 3 will occupy guard tower at top
-- Team 4 will occupy guard tower at bottom
-- if anyone has too much wounded go to occupy hospital or if Team 3 and Team 4 get free occupy hospital
+- Team 2 will occupy Command center at the top
+- Team 3 will occupy Command center at the bottom
+- Team 4 will occupy Workshop
+- All send F4 to get hospital
+- After occupying workshop everyone need to relocate and garrison building (Team 1 to arsenal, Team 2 Command center top, Team 3 Command center bottom)
+- Team 4 will occupy Gas Station
+- Team 1 send F3 to armory
+- Team 2 send F3 to occupy guard tower at top
+- Team 3 send F3 to occupy guard tower at bottom
 
 ![BattleField](Battlefield.jpg)
 
