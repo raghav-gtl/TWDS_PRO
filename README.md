@@ -1,3 +1,18 @@
+## Poll Details
+1. Username:
+2. Should we assign tides partner to you? (Yes or No)
+3. Base Power of Town
+4. F1 Power
+5. F2 Power
+6. F3 Power
+7. Highest Level of walkers defeated? (16 to 25)
+8. Location X
+9. Location Y
+10. Technology percentage of F1
+11. Technology percentage of F2
+12. Technology percentage of F3
+13. Interested in Restricted Zone event
+
 ## Team Responsibility
 - Team 1 wil occupy Arsenal
 - Team 2 will occupy Command center at the top
