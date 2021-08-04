@@ -11,7 +11,8 @@
 10. Technology percentage of F1
 11. Technology percentage of F2
 12. Technology percentage of F3
-13. Interested in Restricted Zone event
+13. Interested in Restricted Zone event at 18 UTC (day will be decided later)
+14. Preferred timing for Events such as Tides, Survivor Camp, Community.
 
 ## Team Responsibility
 - Team 1 wil occupy Arsenal
