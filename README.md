@@ -1,26 +1,15 @@
-## Rules for event on 07-08-2021 (7th August 2021)
-- We have a deal with the enemy clan, they will let us win. But there are some conditions.
-- Players from both the clans will not attack each other's town or buildings. They will not attack our building and we will not attack their building. The same goes for the town.
-- We have a deal so that they will lose with close margin, making this happen needs something which we need to take care of.
-- We will not gather at gathering sites, we will not attack zombies on the battlefield (building zombies are an exception, we need to occupy buildings right?)
-- They will gather and kill zombies on our side too, so please let them.
-- We will attack the arsenal and garrison it with our F1, we will also have all of our side's buildings.
-- If they are getting more points than us at any point we will just start to gather on our side and if no site is empty we will attack and get some gathering sites (all of you need to wait for leaders command for gathering, Leaders will be templer, tashmae, rjsatyadev)
-- If I find anyone breaking the rules, I will remove you from the clan for 1 day and you will not get entry to restricted zone next time. this applies to leaders also. 
-
 ## Team Responsibility
-- Team 1 will occupy Arsenal
-- Team 2 will occupy the Command centre at the top
-- Team 3 will occupy the Command centre at the bottom
-- All send F2 to get Workshop
-- All send F3 to get hospital
+- Team 1 will occupy Arsenal F1
+- Team 2 will occupy the Command centre at the top F1
+- Team 3 will occupy the Command centre at the bottom F1
+- Team 4 will occupy Workshop F1
 - After occupying the workshop everyone need to relocate and garrison building (Team 1 to the arsenal, Team 2 Command centre top, Team 3 Command centre bottom)
-- All send F4 to get Gas Station
+- Team 2 F2 will occupy hospital
+- Team 3 F2 will occupy Gas Station
 - Team 1 send F3 to armoury
 - Team 2 send F3 to occupy the guard tower at the top
 - Team 3 send F3 to occupy the guard tower at the bottom
 - Everyone needs to garrison with F1 F2
-- ignore any other rules at the bottom.
 
 ![BattleField](Battlefield.jpg)
 
