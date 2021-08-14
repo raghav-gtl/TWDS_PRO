@@ -16,8 +16,8 @@
 ## **Teams and Groups BBQ**
 | Team 1 | Team 2 | Team 3 | Team 4 | Reserved |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
-| RJSATYADEV (LEADER) | Templer88 (LEADER) | TASHMAE (Leader) | deadly L (Leader) | Dr. Boomstick |
-| Maz1177 | xFuriosax | SAIKO | PUTIN | blackstar |
+| RJSATYADEV (LEADER) | Templer88 (LEADER) | TASHMAE (Leader) | blackstar | Dr. Boomstick |
+| Maz1177 | xFuriosax | SAIKO | PUTIN | deadly L |
 | Never Enough | JennTX | Britta007 | pika pikaaaa | Maldito Paul |
 | pilon | amican | TAR88 | abraham | Zeus |
 | Xibitz | Hera | MOLLES | kuzcotopia | - |
