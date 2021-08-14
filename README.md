@@ -16,16 +16,16 @@
 ## **Teams and Groups BBQ**
 | Team 1 | Team 2 | Team 3 | Team 4 | Reserved |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
-| RJSATYADEV (LEADER) | Templer88 (LEADER) | TASHMAE (Leader) | - | - |
-| EYVALLAH | Watts | Maz1177 | - | - |
-| Never Enough | pilon | Xibitz | - | - |
-| Pr0digy | Usmish | Lagertha | - | - |
-| Don Makaron | xFuriosax | ozmoooo | - | - |
-| TAR88 | amican | Xtrmo | - | - |
-| WiNtEr | True1 | Leticia | - | - |
-| pika pikaaaa | fernandita | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
+| RJSATYADEV (LEADER) | Templer88 (LEADER) | TASHMAE (Leader) | deadly L (Leader) | Dr. Boomstick |
+| Maz1177 | xFuriosax | SAIKO | PUTIN | blackstar |
+| Never Enough | JennTX | Britta007 | pika pikaaaa | Maldito Paul |
+| pilon | amican | TAR88 | abraham | Zeus |
+| Xibitz | Hera | MOLLES | kuzcotopia | - |
+| Ushmish | Ntaxa | - | - | - |
+| Watts | Xtrmo | - | - | - |
+| NoMercy | Leticia | - | - | - |
+| Niggen | True1 | - | - | - |
+| fernandita | Shnureg | - | - | - |
 
 ## Poll Details
 1. Username:
