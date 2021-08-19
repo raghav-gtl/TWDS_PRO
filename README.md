@@ -16,7 +16,7 @@
 ## **Teams and Groups BBQ**
 | Team 1 | Team 2 | Team 3 | Team 4 | Reserved |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
-| - (LEADER) | - (LEADER) | - (Leader) | - | - |
+| - (LEADER) | - (LEADER) | - (Leader) | - (Leader) | - |
 | - | - | - | - | - |
 | - | - | - | - | - |
 | - | - | - | - | - |
