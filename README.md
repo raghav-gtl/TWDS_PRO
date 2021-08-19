@@ -16,16 +16,16 @@
 ## **Teams and Groups BBQ**
 | Team 1 | Team 2 | Team 3 | Team 4 | Reserved |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
-| RJSATYADEV (LEADER) | Templer88 (LEADER) | TASHMAE (Leader) | blackstar | Dr. Boomstick |
-| Maz1177 | xFuriosax | SAIKO | PUTIN | deadly L |
-| Never Enough | JennTX | Britta007 | pika pikaaaa | Maldito Paul |
-| pilon | amican | TAR88 | abraham | Zeus |
-| Xibitz | Hera | MOLLES | kuzcotopia | - |
-| Ushmish | Ntaxa | - | - | - |
-| Watts | Xtrmo | - | - | - |
-| NoMercy | Leticia | - | - | - |
-| Niggen | True1 | - | - | - |
-| fernandita | Shnureg | - | - | - |
+| - (LEADER) | - (LEADER) | - (Leader) | - | - |
+| - | - | - | - | - |
+| - | - | - | - | - |
+| - | - | - | - | - |
+| - | - | - | - | - |
+| - | - | - | - | - |
+| - | - | - | - | - |
+| - | - | - | - | - |
+| - | - | - | - | - |
+| - | - | - | - | - |
 
 ## Poll Details
 1. Username:
