@@ -1,20 +1,22 @@
 ## Team Responsibility
-- Team 1 will occupy Arsenal F1
-- Team 2 will occupy the Command centre at the top F1
-- Team 3 will occupy the Command centre at the bottom F1
-- Team 4 will occupy Workshop F1
-- After occupying the workshop everyone need to relocate and garrison building (Team 1 to the arsenal, Team 2 Command centre top, Team 3 Command centre bottom)
-- Team 2 F2 will occupy hospital
-- Team 3 F2 will occupy Gas Station
+- Team 1 will attack Arsenal F2 and immediatly send F1 to garrison
+- Team 2 will attack Command centre F2 and immediatly send F1 to garrison
+- Team 3 will attack Command centre F2 and immediatly send F1 to garrison
+- Team 4 will attack Workshop F2 and immediatly send F1 to garrison
+- After occupying the workshop everyone need to relocate and garrison building (Team 1 to the Arsenal, Team 2 Command centre top, Team 3 Command centre bottom, Team 4 near Arsenal)
+- Team 4 F2 will occupy hospital
+- Team 4 F3 will occupy Gas Station
 - Team 1 send F3 to armoury
 - Team 2 send F3 to occupy the guard tower at the top
 - Team 3 send F3 to occupy the guard tower at the bottom
-- Everyone needs to garrison with F1 F2
+- do rallies for getting back Arsenal and Command center if defence is too much.
+- solo attack if building defence is low
+- try to capture enemy command centers immediatly after every building on our side has been occupied.
 
 ![BattleField](Battlefield.jpg)
 
-## **Teams and Groups BBQ**
-| Team 1 | Team 2 | Team 3 | Team 4 | Reserved |
+## **Teams and Groups**
+| Team 1 (10 members) | Team 2 (5 members) | Team 3 (5 members) | Team 4 (10 members) | Reserved |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
 | - (LEADER) | - (LEADER) | - (Leader) | - (Leader) | - |
 | - | - | - | - | - |
@@ -26,6 +28,11 @@
 | - | - | - | - | - |
 | - | - | - | - | - |
 | - | - | - | - | - |
+
+## **Team Details**
+- Team 1 will have highest power people in it.
+- Team 2 and Team 3 needs even distribution of high power after Team 1
+- Team 4 lowest power 10 people
 
 ## **Buildings and Buffs**
 
@@ -69,39 +76,6 @@
 
 3.  We need either 50 million (50,000,000) points or more points than other clan at the time end for winning the game
 
-## **Building Occupying order:**
-
-1.  Command Center to start getting points
-
-2.  I need all members F4 and F3 in Supply (Material in the map) points for gathering victory points at the start of the game, switch or cycle survivors after F1 F2 adrenaline is over (Stamina) and send F1 F2 to gather. If putting 2 formations is not allowed send F4 to the supply point
-
-3.  Ammo Depot (Armory) for attack defence buff
-
-4.  Gas Station for adrenaline (Stamina in the main game)
-
-5.  Workshop for relocating anywhere in-game
-
-6.  Guard Towers for attack buff
-
-7.  Hospitals for increased healing speed
-
-8.  Arsenal (Last and the most important building to occupy)
-
-
-## **Getting the victory points:**
-
-There are 4 different ways we can get victory points
-
-1.  Occupy Command centre (first thing to do)
-
-2.  Gather into supply zone (Material in the map)
-
-3.  Kill Walkers around the map
-
-4.  Occupy arsenal
-
-· **Note**: Once we occupy the Command centre everyone needs to make sure the enemy cannot occupy it. This building will be the sole reason we can win this event
-
 ## Other things to note:
 - every building will have some time before it can be occupied, just like communities (around 2-3 minutes) make sure we garrison the building after attacking.
 - heal all your troops before entering the battle, hospitals must be empty.
@@ -115,7 +89,6 @@ There are 4 different ways we can get victory points
 - Talk only about important things in the main chat. No Hi hello or jokes, if you chat without any kind of importance and other members cannot read important messages because of you, you will be kicked from the whole event.
 - Don't leave the event and get into the main game. if you do that you can not join the event again, substitute players will take your place.
 - all substitutes will be placed according to the absence of selected players in their respective teams.
-
 
 ## Poll Questions
 1. What is your username in game?
