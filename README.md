@@ -27,21 +27,6 @@
 | - | - | - | - | - |
 | - | - | - | - | - |
 
-## Poll Details
-1. Username:
-2. Should we assign a tides partner to you? (Yes or No)
-3. Base Power of Town
-4. F1 Power
-5. F2 Power
-6. F3 Power
-7. Highest Level of walkers defeated? (16 to 25)
-8. Location X
-9. Location Y
-10. Technology percentage of F1
-11. Technology percentage of F2
-12. Technology percentage of F3
-14. Preferred timing for Events such as Tides, Survivor Camp, Community.
-
 ## **Buildings and Buffs**
 
 1.  ### **Command Center (Corner big building):**
@@ -130,3 +115,24 @@ There are 4 different ways we can get victory points
 - Talk only about important things in the main chat. No Hi hello or jokes, if you chat without any kind of importance and other members cannot read important messages because of you, you will be kicked from the whole event.
 - Don't leave the event and get into the main game. if you do that you can not join the event again, substitute players will take your place.
 - all substitutes will be placed according to the absence of selected players in their respective teams.
+
+
+## Poll Questions
+1. What is your username in game?
+2. Which is the highest level of walkers you have defeated in TWDS?
+3. F1 Power
+4. F2 Power
+5. F3 Power
+6. F4 Power
+7. Base Power of Town
+8. Technology percentage of F1
+9. Technology percentage of F2
+10. Technology percentage of F3
+11. Technology percentage of F4
+12. Should leaders assign partners to you for Tides Event?
+13. Are you interested for restricted zone event?
+14. Will you be online at the time of tides event time 17 UTC?
+15. Which tides level are you on?
+16. Select the restricted zone time that is best suited for you.
+17. What time do you prefer for events? e.g. Tides, survivor camps, communities
+18. Highest Troops level
