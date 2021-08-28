@@ -16,18 +16,18 @@
 ![BattleField](Battlefield.jpg)
 
 ## **Teams and Groups**
-| Team 1 (10 members) | Team 2 (5 members) | Team 3 (5 members) | Team 4 (10 members) | Reserved |
-| ------------ | ------------ | ------------ | ------------ | ------------ |
-| - (LEADER) | - (LEADER) | - (Leader) | - (Leader) | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
+| Team 1             | Team 2                | Team 3         | Team 4              |
+|--------------------|-----------------------|----------------|---------------------|
+| Mr Genius (Leader) | ShadoWarrior (Leader) | Dukem (Leader) | RJSATYADEV (Leader) |
+| DarkRyan (Leader)  | Negan187              | UGACrotalus    | Huvxs               |
+| ((LODOS))          | Watts                 | Maz1177        | bba42               |
+| BigWolf            | BroPlace              | RNA13          | ChineseMamba        |
+| Baikarz            | ZHmurki               | Synthetic      | Evgen174            |
+| İskarpela          | Rafoent               | xyxes          | KAOS MEZARCİ        |
+| Don Makaron        | DarkFury              | Nevada         |                     |
+| Never enough       |                       |                |                     |
+| Pr0digy            |                       |                |                     |
+| Pilon              |                       |                |                     |
 
 ## **Team Details**
 - Team 1 will have highest power people in it.
