@@ -13,8 +13,8 @@
 - Attack with F3 to occupy the guard tower at the Bottom
 
 ### Team 4
-- F1 will occupy hospital F2 Attack, F1 garrison
-- F2 will occupy Gas Station F2 Attack F2 Garrison
+- occupy hospital F2 Attack, F1 garrison
+- occupy Gas Station F2 Attack, F2 Garrison
 
 ### Capturing Enemy buildings
 - Our enemy is weak this time so our major players will rally with F2 to their command centers
