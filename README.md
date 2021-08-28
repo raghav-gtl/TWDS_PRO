@@ -18,9 +18,9 @@
 
 ### Capturing Enemy buildings
 - Our enemy is weak this time so our major players will rally with F2 to their command centers
-#### Formation for taking enemy command center
-1. Lodos will open rally on Top Command Center with F2 and other big players join with F2
-2. Negan187 open rally on Bottom Command Center with F2 and other big players join with F2 (Uga is required)
+    #### Formation for taking enemy command center
+    1. Lodos will open rally on Top Command Center with F2 and other big players join with F2
+    2. Negan187 open rally on Bottom Command Center with F2 and other big players join with F2 (Uga is required)
 
 ## General Instruction
 - do rallies for getting back Arsenal and Command center if defence is too much.
