@@ -1,8 +1,8 @@
 ## Team Responsibility
 ### Team 1
 - Attack Arsenal F2 and immediatly send F1 to garrison
-- Attack Workshop F3 garrison with F3
-- After arsenal is garrisoned by F1, send F2 to armoury 
+- Attack Workshop F3 garrison with F2 (Lodos keeps his F2 free don't garrison)
+- After arsenal is garrisoned by F1, send F3 to armoury 
 
 ### Team 2
 - Attack Command centre at Top F2 and immediatly send F1 to garrison
@@ -19,8 +19,8 @@
 ### Capturing Enemy buildings
 - Our enemy is weak this time so our major players will rally with F2 to their command centers
 #### Formation for taking enemy command center
-1. Lodos will open rally on Top Command Center with F2 and BigWolf, Baikarz, Never Enough, Don Makaron Joins with F2
-2. Negan187 open rally on Bottom Command Center with F2 and UGACrotalus, Watts, Iskarpela, Prodigy Joins with F2
+1. Lodos will open rally on Top Command Center with F2 and other big players join with F2
+2. Negan187 open rally on Bottom Command Center with F2 and other big players join with F2 (Uga is required)
 
 ## General Instruction
 - do rallies for getting back Arsenal and Command center if defence is too much.
