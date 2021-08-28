@@ -2,16 +2,17 @@
 - Team 1 will attack Arsenal F2 and immediatly send F1 to garrison
 - Team 2 will attack Command centre F2 and immediatly send F1 to garrison
 - Team 3 will attack Command centre F2 and immediatly send F1 to garrison
-- Team 4 will attack Workshop F2 and immediatly send F1 to garrison
+- Team 1 will attack Workshop F3 garrison with F3
 - After occupying the workshop everyone need to relocate and garrison building (Team 1 to the Arsenal, Team 2 Command centre top, Team 3 Command centre bottom, Team 4 near Arsenal)
-- Team 4 F2 will occupy hospital
-- Team 4 F3 will occupy Gas Station
-- Team 1 send F3 to armoury
+- Team 4 F1 will occupy hospital
+- Team 4 F2 will occupy Gas Station
+- Team 1 send F2 to armoury
 - Team 2 send F3 to occupy the guard tower at the top
 - Team 3 send F3 to occupy the guard tower at the bottom
 - do rallies for getting back Arsenal and Command center if defence is too much.
 - solo attack if building defence is low
 - try to capture enemy command centers immediatly after every building on our side has been occupied.
+- F4 always at supply station or gathering site.
 
 ![BattleField](Battlefield.jpg)
 
