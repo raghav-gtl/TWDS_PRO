@@ -1,14 +1,28 @@
 ## Team Responsibility
-- Team 1 will attack Arsenal F2 and immediatly send F1 to garrison
-- Team 2 will attack Command centre F2 and immediatly send F1 to garrison
-- Team 3 will attack Command centre F2 and immediatly send F1 to garrison
-- Team 1 will attack Workshop F3 garrison with F3
-- After occupying the workshop everyone need to relocate and garrison building (Team 1 to the Arsenal, Team 2 Command centre top, Team 3 Command centre bottom, Team 4 near Arsenal)
-- Team 4 F1 will occupy hospital
-- Team 4 F2 will occupy Gas Station
-- Team 1 send F2 to armoury
-- Team 2 send F3 to occupy the guard tower at the top
-- Team 3 send F3 to occupy the guard tower at the bottom
+### Team 1
+- Attack Arsenal F2 and immediatly send F1 to garrison
+- Attack Workshop F3 garrison with F3
+- After arsenal is garrisoned by F1, send F2 to armoury 
+
+### Team 2
+- Attack Command centre at Top F2 and immediatly send F1 to garrison
+- Attack with F3 to occupy the guard tower at the Top
+
+### Team 3
+- Attack Command centre at Bottom F2 and immediatly send F1 to garrison
+- Attack with F3 to occupy the guard tower at the Bottom
+
+### Team 4
+- F1 will occupy hospital F2 Attack, F1 garrison
+- F2 will occupy Gas Station F2 Attack F2 Garrison
+
+### Capturing Enemy buildings
+- Our enemy is weak this time so our major players will rally with F2 to their command centers
+#### Formation for taking enemy command center
+1. Lodos will open rally on Top Command Center with F2 and BigWolf, Baikarz, Never Enough, Don Makaron Joins with F2
+2. Negan187 open rally on Bottom Command Center with F2 and UGACrotalus, Watts, Iskarpela, Prodigy Joins with F2
+
+## General Instruction
 - do rallies for getting back Arsenal and Command center if defence is too much.
 - solo attack if building defence is low
 - try to capture enemy command centers immediatly after every building on our side has been occupied.
