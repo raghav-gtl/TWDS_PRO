@@ -1,7 +1,7 @@
 ## Team Responsibility
 ### Team 1
 - Attack Arsenal F2 and immediatly send F1 to garrison
-- Attack Workshop F3 garrison with F2 (Lodos keeps his F2 free don't garrison)
+- Attack Workshop F3 garrison with F2
 - After arsenal is garrisoned by F1, send F3 to armoury 
 
 ### Team 2
@@ -15,13 +15,7 @@
 ### Team 4
 - occupy hospital F2 Attack, F1 garrison
 - occupy Gas Station F2 Attack, F2 Garrison
-
-### Capturing Enemy buildings
-- Our enemy is weak this time so our major players will rally with F2 to their command centers
-    #### Formation for taking enemy command center
-    1. Lodos will open rally on Top Command Center with F2 and other big players join with F2
-    2. Negan187 open rally on Bottom Command Center with F2 and other big players join with F2 (Uga is required)
-
+   
 ## General Instruction
 - do rallies for getting back Arsenal and Command center if defence is too much.
 - solo attack if building defence is low
@@ -31,18 +25,18 @@
 ![BattleField](Battlefield.jpg)
 
 ## **Teams and Groups**
-| Team 1             | Team 2                | Team 3         | Team 4              |
-|:------------------:|:---------------------:|:--------------:|:-------------------:|
-| Mr Genius (Leader) | ShadoWarrior (Leader) | Dukem (Leader) | RJSATYADEV (Leader) |
-| DarkRyan (Leader)  | Negan187              | UGACrotalus    | Huvxs               |
-| ((LODOS))          | Watts                 | Maz1177        | bba42               |
-| BigWolf            | BroPlace              | RNA13          | ChineseMamba        |
-| Baikarz            | ZHmurki               | Synthetic      | Evgen174            |
-| İskarpela          | Rafoent               | Xyxes          | KAOS MEZARCİ        |
-| Don Makaron        | DarkFury              | Nevada         |                     |
-| Never enough       |                       |                |                     |
-| Pr0digy            |                       |                |                     |
-| Pilon              |                       |                |                     |
+| Team1            | Team2               | Team3        | Team4             | Substitute |
+|:----------------:|:-------------------:|:------------:|:-----------------:|:----------:|
+| Mr Genius Leader | ShadoWarrior Leader | Dukem Leader | RJSATYADEV Leader | Xyxes      |
+| DarkRyan Leader  | Negan187            | UGACrotalus  | JrPlay            | Oliver     |
+| ((LODOS))        | Baikarz             | Maz1177      | Xibitz            | codex      |
+| Watts            | UsmisH              | Pilon        | Astar             | synthetic  |
+| Geist7           | DarkFury            | Iskarpela    | Evgen174          | Angels     |
+| Dedbored         | Colombo22           | Стриж        | bba42             |            |
+| RNA13            | LOBO                | BigWolf      |                   |            |
+| ChineseMamba     |                     |              |                   |            |
+| Don Makaron      |                     |              |                   |            |
+| Rafoent          |                     |              |                   |            |
 
 ## **Team Details**
 - Team 1 will have highest power people in it.
