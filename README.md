@@ -25,18 +25,18 @@
 ![BattleField](Battlefield.jpg)
 
 ## **Teams and Groups**
-| Team1            | Team2               | Team3        | Team4             | Substitute |
-|:----------------:|:-------------------:|:------------:|:-----------------:|:----------:|
-| Mr Genius Leader | ShadoWarrior Leader | Dukem Leader | RJSATYADEV Leader | Xyxes      |
-| DarkRyan Leader  | Negan187            | UGACrotalus  | JrPlay            | Oliver     |
-| ((LODOS))        | Baikarz             | Maz1177      | Xibitz            | codex      |
-| Watts            | UsmisH              | Pilon        | Astar             | synthetic  |
-| Geist7           | DarkFury            | Iskarpela    | Evgen174          | Angels     |
-| Dedbored         | Colombo22           | Стриж        | bba42             |            |
-| RNA13            | LOBO                | BigWolf      |                   |            |
-| ChineseMamba     |                     |              |                   |            |
-| Don Makaron      |                     |              |                   |            |
-| Rafoent          |                     |              |                   |            |
+| Team1             | Team2                 | Team3          | Team4           |
+|:-----------------:|:---------------------:|:--------------:|:---------------:|
+| DarkRyan (Leader) | ShadoWarrior (Leader) | Dukem (Leader) | Angels (Leader) |
+| ((LODOS))         | Negan187              | Strider        | bba42           |
+| Watts             | Baikarz               | UGACrotalus    | Xibitz          |
+| Don Makaron       | UsmisH                | Synthetic      | Yuki.           |
+| İskarpela         | Maz1177               | LOBO           | Cruel PE        |
+| Geist7            | Colombo22             | Murat1903      | Стриж           |
+| Harpy             | Gustavo1              | Codex          |                 |
+| pr0digy           |                       |                |                 |
+| Huvxs             |                       |                |                 |
+| DarkFury          |                       |                |                 |
 
 ## **Team Details**
 - Team 1 will have highest power people in it.
